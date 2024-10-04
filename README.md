@@ -9,9 +9,6 @@ This project is a simple yet elegant Temperature Converter that allows users to 
 * Reset Functionality: An easy-to-use clear button to reset fields and start fresh.
 * Error Handling: Input validation ensures that users are entering valid numbers.
 
-# Demo
-Check out the live demo of the Temperature Converter here: Live Demo (https://glozog.github.io/temperature-converter/).
-
 # Technologies Used
 * HTML5: Provides the structure for the converter, including input fields, buttons, and output display.
 * CSS3: Creates a visually appealing, responsive, and minimalistic design that is both user-friendly and clean.
